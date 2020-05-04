@@ -1,0 +1,3 @@
+/Users/jennhoward/Projects/1050ITproject2/1050ITproject2/obj/Debug/netcoreapp3.1/1050ITproject2.AssemblyInfoInputs.cache
+/Users/jennhoward/Projects/1050ITproject2/1050ITproject2/obj/Debug/netcoreapp3.1/1050ITproject2.AssemblyInfo.cs
+/Users/jennhoward/Projects/1050ITproject2/1050ITproject2/obj/Debug/netcoreapp3.1/1050ITproject2.csprojAssemblyReference.cache

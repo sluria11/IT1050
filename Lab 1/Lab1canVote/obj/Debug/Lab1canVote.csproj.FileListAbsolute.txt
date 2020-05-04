@@ -1,0 +1,18 @@
+C:\Users\Sean\Desktop\IT1050GitHubFolder\Lab1canVoteSolution\Lab1canVote\bin\Debug\Lab1canVote.exe.config
+C:\Users\Sean\Desktop\IT1050GitHubFolder\Lab1canVoteSolution\Lab1canVote\obj\Debug\Lab1canVote.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\IT1050GitHubFolder\Lab1canVoteSolution\Lab1canVote\bin\Debug\Lab1canVote.exe
+C:\Users\Sean\Desktop\IT1050GitHubFolder\Lab1canVoteSolution\Lab1canVote\bin\Debug\Lab1canVote.pdb
+C:\Users\Sean\Desktop\IT1050GitHubFolder\Lab1canVoteSolution\Lab1canVote\obj\Debug\Lab1canVote.exe
+C:\Users\Sean\Desktop\IT1050GitHubFolder\Lab1canVoteSolution\Lab1canVote\obj\Debug\Lab1canVote.pdb
+C:\Users\Sean\Desktop\IT1050\Lab1canVoteSolution\Lab1canVote\bin\Debug\Lab1canVote.exe.config
+C:\Users\Sean\Desktop\IT1050\Lab1canVoteSolution\Lab1canVote\obj\Debug\Lab1canVote.exe
+C:\Users\Sean\Desktop\IT1050\Lab1canVoteSolution\Lab1canVote\obj\Debug\Lab1canVote.pdb
+C:\Users\Sean\Desktop\IT1050\Lab1canVoteSolution\Lab1canVote\obj\Debug\Lab1canVote.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\IT1050\Lab1canVoteSolution\Lab1canVote\bin\Debug\Lab1canVote.exe
+C:\Users\Sean\Desktop\IT1050\Lab1canVoteSolution\Lab1canVote\bin\Debug\Lab1canVote.pdb
+C:\Users\sammy\Desktop\IT1050\Lab 1\Lab1canVote\bin\Debug\Lab1canVote.exe.config
+C:\Users\sammy\Desktop\IT1050\Lab 1\Lab1canVote\bin\Debug\Lab1canVote.exe
+C:\Users\sammy\Desktop\IT1050\Lab 1\Lab1canVote\bin\Debug\Lab1canVote.pdb
+C:\Users\sammy\Desktop\IT1050\Lab 1\Lab1canVote\obj\Debug\Lab1canVote.csprojAssemblyReference.cache
+C:\Users\sammy\Desktop\IT1050\Lab 1\Lab1canVote\obj\Debug\Lab1canVote.exe
+C:\Users\sammy\Desktop\IT1050\Lab 1\Lab1canVote\obj\Debug\Lab1canVote.pdb

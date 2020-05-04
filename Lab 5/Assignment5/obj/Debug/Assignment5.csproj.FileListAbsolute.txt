@@ -1,0 +1,6 @@
+C:\Users\sammy\Desktop\IT1050\Lab 5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\sammy\Desktop\IT1050\Lab 5\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\sammy\Desktop\IT1050\Lab 5\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\sammy\Desktop\IT1050\Lab 5\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+C:\Users\sammy\Desktop\IT1050\Lab 5\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\sammy\Desktop\IT1050\Lab 5\Assignment5\obj\Debug\Assignment5.pdb

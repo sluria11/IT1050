@@ -1,0 +1,6 @@
+C:\Users\sammy\Desktop\IT1050\Lab 4\Lab4Movies\bin\Debug\Lab4Movies.exe.config
+C:\Users\sammy\Desktop\IT1050\Lab 4\Lab4Movies\bin\Debug\Lab4Movies.exe
+C:\Users\sammy\Desktop\IT1050\Lab 4\Lab4Movies\bin\Debug\Lab4Movies.pdb
+C:\Users\sammy\Desktop\IT1050\Lab 4\Lab4Movies\obj\Debug\Lab4Movies.csprojAssemblyReference.cache
+C:\Users\sammy\Desktop\IT1050\Lab 4\Lab4Movies\obj\Debug\Lab4Movies.exe
+C:\Users\sammy\Desktop\IT1050\Lab 4\Lab4Movies\obj\Debug\Lab4Movies.pdb

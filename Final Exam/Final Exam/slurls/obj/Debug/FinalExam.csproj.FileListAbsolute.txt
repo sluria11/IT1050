@@ -1,0 +1,6 @@
+C:\Users\sammy\Desktop\Final Exam\slurls\bin\Debug\slurls.exe.config
+C:\Users\sammy\Desktop\Final Exam\slurls\bin\Debug\slurls.exe
+C:\Users\sammy\Desktop\Final Exam\slurls\bin\Debug\slurls.pdb
+C:\Users\sammy\Desktop\Final Exam\slurls\obj\Debug\FinalExam.csprojAssemblyReference.cache
+C:\Users\sammy\Desktop\Final Exam\slurls\obj\Debug\slurls.exe
+C:\Users\sammy\Desktop\Final Exam\slurls\obj\Debug\slurls.pdb

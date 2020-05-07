@@ -1,0 +1,7 @@
+C:\Users\shawa\source\repos\slurls\slurls\bin\Debug\slurls.exe.config
+C:\Users\shawa\source\repos\slurls\slurls\bin\Debug\slurls.exe
+C:\Users\shawa\source\repos\slurls\slurls\bin\Debug\slurls.pdb
+C:\Users\shawa\source\repos\slurls\slurls\obj\Debug\slurls.csproj.CoreCompileInputs.cache
+C:\Users\shawa\source\repos\slurls\slurls\obj\Debug\slurls.exe
+C:\Users\shawa\source\repos\slurls\slurls\obj\Debug\slurls.pdb
+C:\Users\shawa\source\repos\slurls\slurls\obj\Debug\slurls.csprojAssemblyReference.cache
